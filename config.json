@@ -1,0 +1,11 @@
+{
+    "dev":{
+        "database":"mydb",
+        "username":"root",
+        "password":"dolby",
+        "hostDialect" : {
+            "host":"localhost",
+            "dialect": "mysql"
+        }
+    }
+}
